@@ -6,7 +6,7 @@ int main() {
     cin >> a >> b >> c;
 
     cout << fixed;
-    cout.precision(3)
+    cout.precision(3);
     cout << a << endl << b << endl << c;
     return 0;
 }
