@@ -12,7 +12,7 @@ int main() {
         cout << "vapor";
     }
     else{
-        cout << " water";
+        cout << "water";
     }
     return 0;
 }
