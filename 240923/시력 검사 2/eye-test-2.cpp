@@ -9,7 +9,7 @@ int main() {
         cout << "High";
     }
     else if (a >= 0.5){
-        cout << High;
+        cout << "High";
     }
     else{
         cout << "Low"
