@@ -17,8 +17,11 @@ int main() {
     else if (a == 'C'){
         cout << "Usually";
     }
-    else {
+    else if (a == 'D'){
         cout << "Effort";
+    }
+    else {
+        cout << "Failure";
     }
     return 0;
 }
