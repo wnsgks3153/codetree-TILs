@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int j, w, b;
-    cin >> j >> w;
+    int h, w, b;
+    cin >> h >> w;
 
     b = (10000 * w) / (h * h);
 
