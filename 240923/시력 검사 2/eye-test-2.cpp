@@ -12,7 +12,7 @@ int main() {
         cout << "High";
     }
     else{
-        cout << "Low"
+        cout << "Low";
     }
     return 0;
 }
