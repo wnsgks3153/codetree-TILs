@@ -15,7 +15,7 @@ int main() {
         cout << "Paul";
     }
     else {
-        cout << "Vacncy";
+        cout << "Vacancy";
     }
     return 0;
 }
