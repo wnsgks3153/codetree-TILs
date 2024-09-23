@@ -8,6 +8,6 @@ int main() {
     a += 8;
     b *= 3;
 
-    cout a << endl << b << endl << a*b;
+    cout << a << endl << b << endl << a * b;
     return 0;
 }
