@@ -9,14 +9,14 @@ int main() {
         cout << "YES" << endl;
     }
     else {
-        cout << "No" << endl;
+        cout << "NO" << endl;
     }
 
     if ((a % 5) == 0){
         cout << "YES";
     }
     else {
-        cout << "No";
+        cout << "NO";
     }
     return 0;
 }
